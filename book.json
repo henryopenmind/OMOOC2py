@@ -1,8 +1,8 @@
 {
-    "plugins": ["disqus"],
-    "pluginsConfig": {
-        "disqus": {
-            "henrypython": "introducetogitbook"
-        }
-    }  
+"plugins": ["disqus"],
+“pluginsConfig”: {
+"disqus": {
+ “henrypython":” “NAME-FROM-DISQUS”
+  }
+}
 }
