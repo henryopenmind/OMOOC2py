@@ -1,8 +1,8 @@
 {
-"plugins": [
-"disqus"
-],
-"pluginsConfig": {
-"henry-python": "<你刚才注册的shortName>"
-}
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "henry-python": "introducetogitbook"
+        }
+    }  
 }
