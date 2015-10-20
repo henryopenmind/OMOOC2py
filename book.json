@@ -2,7 +2,7 @@
 "plugins": ["disqus"],
 “pluginsConfig”: {
 "disqus": {
- “henrypython":” “NAME-FROM-DISQUS”
+ “henrygitbook":” “NAME-FROM-DISQUS”
   }
 }
 }
