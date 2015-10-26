@@ -1,8 +1,8 @@
-{
-"plugins": ["disqus"],
-“pluginsConfig”: {
-"disqus": {
- “henrygitbook” “NAME-FROM-DISQUS”
-  }
-}
-}
+      {
+      "plugins": ["disqus"],  
+      "pluginsConfig": {  
+      "disqus": {  
+          "henrygitbook": "XXXXXXX"  
+              }
+          }  
+      }
