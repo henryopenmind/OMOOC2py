@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [教学反转](0MOOC/README.md)
    * 1,怎么看勇猛精进
+   * 2.开班起航公开课
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
