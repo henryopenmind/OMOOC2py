@@ -5,6 +5,7 @@
    * 1,怎么看勇猛精进
    * 2.开班起航公开课
 * [基础旋进](1sTry/README.md)
+   * git学习
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
 * [代码 (_src)](_src/README.md)
